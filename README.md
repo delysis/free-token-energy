@@ -1,5 +1,12 @@
 # Free Token Energy
 
+> **Repository frozen after W4 import.** Active development has moved to
+> [`delysis/native-platform`](https://github.com/delysis/native-platform), under
+> [`products/fte`](https://github.com/delysis/native-platform/tree/main/products/fte).
+> This repository is an immutable rollback and history boundary. Please file
+> issues and security reports in the canonical repository. Existing tags and
+> history remain available here; no bidirectional synchronization is supported.
+
 Free Token Energy is a local-first desktop AI gateway built with Tauri 2, Rust,
 SQLite, and a dependency-light webview. It presents several provider accounts
 through one OpenAI-compatible loopback API and can select an available route
